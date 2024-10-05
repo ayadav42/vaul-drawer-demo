@@ -8,7 +8,7 @@ export default function Home() {
 
   return (
     <div className='flex h-screen'>
-      <div id='side-panel' className='w-96 bg-blue-200'>
+      <div id='side-panel' className='w-52 bg-blue-200'>
         Side Panel
       </div>
       <div
